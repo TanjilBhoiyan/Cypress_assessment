@@ -1,0 +1,19 @@
+{
+  "name": "Tanjil Bhoiyan",
+  "email": "tanjirbkhan12@gmail.com",
+  "password": "Tanjil123",
+  "firstname":"Tanjil",
+  "lastname":"Bhoiyan",
+  "mobilenumber":"01918531609",
+  "country":"India",
+  "company":"Tekarsh",
+  "address1":"Mohakhali,DOHS,Dhaka",
+  "address2":"Mohakhali,TB gate ,Dhaka",
+  "state":"Dhaka",
+  "zipcode":"1234",
+  "cardnumber":"973929838334",
+  "cvc":"321",
+  "contactsubject":"I need this job",
+  "contactmessage":"Hello,How are you",
+  "quantity":"2"
+}
